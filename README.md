@@ -3,18 +3,18 @@ A case study done for a fictional brand with a generated dataset to work on prod
 
 ## Skills
 
-## Languages
+### Languages
 
 - Python
 
-## Tools/Frameworks
+### Tools/Frameworks
 
 - Scikit-Learn
 - Pandas
 - NumPy
 - Seaborn/Matplotlib
 
-## Other Skills
+### Other Skills
 
 - Data-driven product recommendations
 - Product case study analysis
